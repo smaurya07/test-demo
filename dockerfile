@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-LABEL maintainer="Vinayak Kolagi <vkolagi@planview.com>"
+LABEL maintainer="Sudha Maurya"
 
 COPY . /opt/src
 WORKDIR /opt/src
