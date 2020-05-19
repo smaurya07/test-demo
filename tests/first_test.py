@@ -1,1 +1,4 @@
-print("This is test")
+import pytest
+
+def test_one():
+  print("Hello World")
